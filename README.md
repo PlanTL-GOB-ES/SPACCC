@@ -16,7 +16,7 @@ cases were listed, these were split into single clinical cases.
 
 ## Contact
 
-Montserrat Marimon (montserrat.marimon@bsc.es)
+Ander Intxaurrondo (ander.intxaurrondo@bsc.es)
 
 
 ## License
