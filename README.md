@@ -14,6 +14,11 @@ and those that were not suitable for this task. Figure legends were automaticall
 cases were listed, these were split into single clinical cases.
 
 
+## Digital Object Identifier (DOI) and access to source files
+
+https://doi.org/10.5281/zenodo.1563763
+
+
 ## Contact
 
 Ander Intxaurrondo (ander.intxaurrondo@bsc.es)
