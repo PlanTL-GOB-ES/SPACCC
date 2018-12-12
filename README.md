@@ -13,6 +13,12 @@ A clinician classified those cases into those that were similar to real clinical
 and those that were not suitable for this task. Figure legends were automatically removed and in case multiple clinical 
 cases were listed, these were split into single clinical cases.
 
+
+## Digital Object Identifier (DOI) and access to dataset files
+
+https://doi.org/10.5281/zenodo.1563763
+
+
 ## Contact
 
 Ander Intxaurrondo (ander.intxaurrondo@bsc.es)
