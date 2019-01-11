@@ -2,9 +2,6 @@
 
 This repository contains the Spanish Clinical Case Corpus. 
 
-
-## Document selection
-
 The SPACCC corpus was created after collecting 1,000 clinical cases from SciELO (Scientific Electronic Library Online), 
 an electronic library that gathers electronic publications of complete full text articles from scientific journals of 
 Latin America, South Africa and Spain (http://www.scielo.org).
